@@ -212,5 +212,5 @@ def main_menu():
 
 # ---------- START PROGRAM ----------
 if __name__ == "__main__":
-    print("✨ Welcome to Sangam’s Mini Game Hub ✨")
+    print("✨ Welcome to Avi's Mini Game Hub ✨")
     main_menu()
